@@ -1,0 +1,2 @@
+echo '[phases.setup]
+nixPkgs = ["libxcb", "libGL"]' > nixpacks.toml
